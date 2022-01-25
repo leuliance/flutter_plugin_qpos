@@ -33,4 +33,5 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'androidx.core:core:1.1.0'
+    implementation 'com.alibaba:fastjson:1.2.76'
 }
